@@ -1,3 +1,4 @@
+/*
 .App {
   text-align: center;
 }
@@ -35,4 +36,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+*/
+h1{
+  padding-top: 50px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 1200;
+}
+
+body{
+  background : linear-gradient(120deg,rgb(92, 185, 248),rgb(29, 237, 123));
+  background-repeat: no-repeat;
+  height: 100vh;;
 }
